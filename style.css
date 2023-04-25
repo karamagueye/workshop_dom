@@ -1,0 +1,69 @@
+
+body{
+    margin: opx;
+    padding: 0px;
+    font-size: roboto;
+    background-color: black
+} 
+.container{
+    width: 800px;
+    height:  auto;
+   margin: 180px;
+   background-position: center;
+    background-color : whitesmoke  
+    
+    
+} 
+.haut{
+  padding: 30px; 
+  
+}
+.qty{
+  width: 30px;
+border: raduis 5px;
+
+} 
+.bouton{
+  text-align: center;
+  margin-left: 250px; 
+  margin-top: -70px;
+  
+
+} 
+.couleur{
+  color: white;
+  margin-bottom: -180px; 
+  margin-left: 100px;
+} 
+.heure{
+  width: 90px; 
+  margin: 15px;
+}
+.article{ 
+  border-radius: 5px;
+margin: 25px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+background-color:rgb(2, 126, 8)
+
+} 
+.supr{
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-radius: 5px; 
+  background-color: red;
+} 
+.qty-Minus{
+  border-radius: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+  background-color: gray;
+}  
+
+  .qty-plus{
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: gray;
+  } 
+  .plus :hover{
+  color: blue;
+  }
